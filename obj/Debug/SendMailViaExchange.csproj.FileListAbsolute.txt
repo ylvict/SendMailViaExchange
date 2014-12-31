@@ -1,0 +1,7 @@
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\bin\Debug\SendMailViaExchange.exe.config
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\bin\Debug\SendMailViaExchange.exe
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\bin\Debug\SendMailViaExchange.pdb
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\obj\Debug\SendMailViaExchange.exe
+C:\Users\v-hoverz\Documents\Visual Studio 14\Projects\ConsoleApplication1\obj\Debug\SendMailViaExchange.pdb
